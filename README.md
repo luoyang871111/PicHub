@@ -165,4 +165,4 @@ Status: 200
             "payload": null
         }
     }
-}![image](https://github.com/luoyang871111/PicHub/assets/52514896/eecfb33f-0591-4655-8b0f-dbdea2e2d874)
+}![image](https://github.com/luoyang871111/PicH[ub/iassets/52514896/eecfb33f-0591-4655-8b0f-dbdea2e2d874)
